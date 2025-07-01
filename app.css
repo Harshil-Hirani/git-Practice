@@ -1,7 +1,11 @@
 body{
-    background-color:cornflowerblue;
+    background-color:rgb(40, 207, 115);
 }
 
 p{
     color:cornflowerblue;
+}
+
+h1{
+    color:rgb(37, 15, 160);
 }
